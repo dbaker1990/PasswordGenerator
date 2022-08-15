@@ -1,0 +1,17 @@
+E:\Password Generator\Password Generator\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+E:\Password Generator\Password Generator\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+E:\Password Generator\Password Generator\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Password Generator\Password Generator\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+E:\Password Generator\Password Generator\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+E:\Password Generator\Password Generator\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Password.resources
